@@ -3,8 +3,9 @@
 button {
   overflow: visible;
 }
+
 article {
-    background-color: white;
+  background-color: white;
 }
 
 button,
@@ -102,8 +103,7 @@ textarea:focus {
 }
 
 select {
-  background: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png")
-    no-repeat right;
+  background: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png") no-repeat right;
   outline: none;
 }
 
@@ -140,4 +140,3 @@ textarea {
   background: #0059ff;
   color: #f2f3eb;
 }
-
